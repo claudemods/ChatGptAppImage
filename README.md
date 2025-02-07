@@ -1,0 +1,2 @@
+# ChatGptAppImage
+unofficial ChatGpt appimage
