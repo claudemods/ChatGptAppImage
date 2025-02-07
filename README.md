@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="https://i.postimg.cc/JzbgmDNz/ChatGpt.png" alt="logo">
+    <img width="150" src="https://i.postimg.cc/JzbgmDNz/ChatGpt.png" alt="logo">
 </p>
 
 <div align="center">
