@@ -34,9 +34,6 @@ latest and greatest unofficial ChatGpt AppImage
 qt6 cpp and gtk3 appimage built for arch and debian
 this simply loads the deepseek website 
 
-due to region restrictions 
-this website may not work for you please check your current law for your country before accessing this site
-
 
 If you like what I'm doing and want to support me to improve, 
 please consider donating. Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
